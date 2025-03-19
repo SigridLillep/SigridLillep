@@ -1,4 +1,6 @@
-## Tere, Maailm! 👋
+## Tere sulle, kes sa minu lehele oled sattunud! 👋
+
+Tea, et see, mis sa siin näed, ei pruugi kõik õige olla :)
 
 <!--
 **SigridLillep/SigridLillep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
