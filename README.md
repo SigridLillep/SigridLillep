@@ -2,12 +2,12 @@
 
 Tea, et see, mis sa siin näed, ei pruugi kõik õige olla :)
 
-1. [01.html](01.html)
-2. [02.html](02.html)
-3. [03.html](03.html)
-4. [05.html](05.html)
-5. [06.html](06.html)
-6. [07.html](07.html)
+1. [01.html]
+2. [02.html](https://sigridlillep.github.io/SigridLillep/02.html)
+3. [03.html](https://sigridlillep.github.io/SigridLillep/03.html)
+4. [05.html](https://sigridlillep.github.io/SigridLillep/05.html)
+5. [06.html](https://sigridlillep.github.io/SigridLillep/06.html)
+6. [07.html](https://sigridlillep.github.io/SigridLillep/07.html)
 
 
 <!--
