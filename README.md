@@ -2,12 +2,18 @@
 
 Tea, et see, mis sa siin näed, ei pruugi kõik õige olla :)
 
-1. [01.html]
-2. [02.html](https://sigridlillep.github.io/SigridLillep/02.html)
-3. [03.html](https://sigridlillep.github.io/SigridLillep/03.html)
-4. [05.html](https://sigridlillep.github.io/SigridLillep/05.html)
-5. [06.html](https://sigridlillep.github.io/SigridLillep/06.html)
-6. [07.html](https://sigridlillep.github.io/SigridLillep/07.html)
+HTML5:
+1. [Harjutus 1](https://sigridlillep.github.io/SigridLillep/01.html)
+2. [Harjutus 2](https://sigridlillep.github.io/SigridLillep/02.html)
+3. [Harjutus 3](https://sigridlillep.github.io/SigridLillep/03.html)
+4. [Harjutus 5](https://sigridlillep.github.io/SigridLillep/05.html)
+5. [Harjutus 6](https://sigridlillep.github.io/SigridLillep/06.html)
+6. [Harjutus 7](https://sigridlillep.github.io/SigridLillep/07.html)
+
+Bootstrap:
+1. [Harjutus 1](https://sigridlillep.github.io/SigridLillep/bs01.html)
+2. [Harjutus 2](https://sigridlillep.github.io/SigridLillep/bs02.html)
+3. [Harjutus 3](https://sigridlillep.github.io/SigridLillep/bs03.html)
 
 
 <!--
