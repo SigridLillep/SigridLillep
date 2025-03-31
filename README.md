@@ -1,6 +1,6 @@
 ## Tere sulle, kes sa minu lehele oled sattunud! 👋
 
-Tea, et see, mis sa siin näed, ei pruugi kõik õige olla :)
+🌱Minu koolitööd:
 
 HTML5:
 1. [Harjutus 1](https://sigridlillep.github.io/SigridLillep/01.html)
@@ -11,9 +11,8 @@ HTML5:
 6. [Harjutus 7](https://sigridlillep.github.io/SigridLillep/07.html)
 
 Bootstrap:
-1. [Harjutus 1](https://sigridlillep.github.io/SigridLillep/bs01.html)
-2. [Harjutus 2](https://sigridlillep.github.io/SigridLillep/bs02.html)
-3. [Harjutus 3](https://sigridlillep.github.io/SigridLillep/bs03.html)
+1. [Harjutus 2](https://sigridlillep.github.io/SigridLillep/bs02.html)
+2. [Harjutus 3](https://sigridlillep.github.io/SigridLillep/bs03.html)
 
 
 <!--
