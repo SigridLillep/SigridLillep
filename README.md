@@ -6,22 +6,12 @@
             </ol>
             </nav>
             <h1>Hello World 👋 </h1>
-            <p>Autor: <a href="#">Sinu nimi</a></p>
-            <p>16.05.2025
-                <span class="badge text-bg-danger">Danger</span>
-                <span class="badge text-bg-warning">Warning</span>
-            </p>
             <img src="https://picsum.photos/id/234/1200/400" class="img-fluid" alt="pilt">
-            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque ipsam doloribus minus sequi nam explicabo alias. Quisquam error ipsa quas sapiente deleniti magni iusto excepturi iure? Tempore, consequatur perspiciatis.</p>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque commodi natus veritatis, fuga facere ex numquam? Quisquam ea, eius blanditiis et tenetur nihil perferendis optio quos voluptate sed, fuga incidunt.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci cum officiis eveniet? Libero doloribus qui ipsam provident id! Quas perferendis consequuntur ex quo repellendus nobis vitae perspiciatis in aut fugit?</p>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam ex voluptate, vel dolorem enim incidunt id fugit dicta molestiae eaque, sed vitae similique ipsum obcaecati deleniti. Aliquid unde nisi at!</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis soluta cupiditate explicabo hic ipsam quidem animi, numquam quia sunt reprehenderit quod delectus ducimus eius sed. Temporibus soluta modi distinctio unde.</p>
         </div>
         <div class="col-sm-4">
             <div class="card mt-3">
                 <div class="card-header">
-                  <h5>Kategooriad</h5>
+                  <h5>HTML</h5>
                 </div>
                 <div class="card-body">
                     <div class="row">
