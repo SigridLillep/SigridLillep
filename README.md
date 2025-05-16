@@ -22,11 +22,18 @@
                                 <li><a href="#">Bootstrap</a></li>
                             </ul>
                         </div>
+                    </div>
+                </div>
+            </div>
+                            <h5>Bootstrap</h5>
+                </div>
+                <div class="card-body">
+                    <div class="row">
                         <div class="col-sm">
                             <ul class="list-unstyled">
-                                <li><a href="#">JavaScript</a></li>
-                                <li><a href="#">PHP</a></li>
-                                <li><a href="#">MySQL</a></li>
+                                <li><a href="#">HTML</a></li>
+                                <li><a href="#">CSS</a></li>
+                                <li><a href="#">Bootstrap</a></li>
                             </ul>
                         </div>
                     </div>
