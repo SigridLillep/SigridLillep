@@ -1,4 +1,4 @@
-## Tere sulle, kes sa minu lehele oled sattunud! 👋
+## Hello World! 👋
 
 🌱Minu koolitööd:
 
