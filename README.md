@@ -9,33 +9,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" >
   </head>
   <body>
-<!--menüü-->
-<nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
-    <div class="container">
-      <a class="navbar-brand" href="#"><i class="fa-regular fa-face-smile"></i> Veebibeebi.ee</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Avaleht</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Blogi</a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link disabled" aria-disabled="true">CV</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Kontakt</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-<!--sisu-->
 <div class="container">
     <!--.row>.col-sm-8-->
     <div class="row">
