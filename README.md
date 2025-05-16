@@ -6,7 +6,7 @@
             </ol>
             </nav>
             <h1>Hello World 👋 </h1>
-                      <h2>Minu koolitööd:</h2>
+                      <h2>🌱 Minu koolitööd:</h2>
         </div>
         <div class="col-sm-4">
             <div class="card mt-3">
