@@ -19,8 +19,11 @@
                         <div class="col-sm">
                             <ul class="list-unstyled">
                                 <li><a href="https://sigridlillep.github.io/SigridLillep/01.html">Harjutus 1</a></li>
-                                <li><a href="https://sigridlillep.github.io/SigridLillep/01.html">Harjutus 2</a></li>
-                                <li><a href="https://sigridlillep.github.io/SigridLillep/01.html">Harjutus 3</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/02.html">Harjutus 2</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/03.html">Harjutus 3</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/05.html">Harjutus 5</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/06.html">Harjutus 6</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/07.html">Harjutus 7</a></li>
                             </ul>
                         </div>
                     </div>
@@ -32,9 +35,10 @@
                     <div class="row">
                         <div class="col-sm">
                             <ul class="list-unstyled">
-                                <li><a href="#">HTML</a></li>
-                                <li><a href="#">CSS</a></li>
-                                <li><a href="#">Bootstrap</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/bs02.html)">Harjutus 2</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/bs03.html)">Harjutus 3</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/bs04_5.html)">Harjutus 4 ja 5</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/bs06.html)">Harjutus 6</a></li>
                             </ul>
                         </div>
                     </div>
