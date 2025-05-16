@@ -1,11 +1,8 @@
 <table>
   <tr>
-    <!-- Esimene lahter -->
     <td valign="top" width="50%">
       <h2>👋 Hello World!</h2>
     </td>
-
-    <!-- Teine lahter -->
     <td valign="top" width="50%">
       🌱 <strong>Minu koolitööd:</strong><br><br>
 
@@ -24,7 +21,7 @@
       4. <a href="https://sigridlillep.github.io/SigridLillep/bs06.html">Harjutus 6</a>
     </td>
   </tr>
-</table>
+  </table>
 
 
 <!--
