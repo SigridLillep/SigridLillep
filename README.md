@@ -32,15 +32,6 @@
                     </div>
                 </div>
             </div>
-            <div class="card mt-3">
-                <div class="card-header">
-                  <h5>Muu info</h5>
-                </div>
-                <div class="card-body">
-                  <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic nemo fugiat, perferendis, unde dolor blanditiis cumque vitae debitis, at eum quas ipsum corrupti eaque beatae! Corporis repellendus dolore molestiae incidunt. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus obcaecati, aspernatur eaque labore quidem inventore sint quam alias accusamus laudantium veritatis, aut rerum facere fuga veniam ipsa recusandae soluta voluptatibus.</p>
-                </div>
-            </div>
-
         </div>
     </div>
 </div>
