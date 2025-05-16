@@ -1,5 +1,4 @@
-
-  <table>
+<table>
     <tr>
         <h2>👋 Hello World!</h2>
       
