@@ -1,8 +1,8 @@
-<p align="center">
+
   <table>
     <tr>
         <h2>👋 Hello World!</h2>
-        <p>Tere tulemast mu GitHubi profiilile!</p>
+      
         <h2>🌱 Minu koolitööd:</h2>
       <td>
         <strong>HTML5:</strong><br>
