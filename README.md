@@ -1,11 +1,9 @@
 <table>
   <tr>
-    <!-- Esimene veerg -->
     <td valign="top" width="50%">
       <h2>👋 Hello World!</h2>
     </td>
 
-    <!-- Teine veerg -->
     <td valign="top" width="50%">
       <h3>🌱 Minu koolitööd:</h3>
 
