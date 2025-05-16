@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-🌱Minu koolitööd:
+# 🌱Minu koolitööd:
 
 HTML5:
 1. [Harjutus 1](https://sigridlillep.github.io/SigridLillep/01.html)
