@@ -7,6 +7,7 @@
             </nav>
             <h1>Hello World 👋 </h1>
             <img src="https://picsum.photos/id/234/1200/400" class="img-fluid" alt="pilt">
+                      <h2>Minu koolitööd:</h2>
         </div>
         <div class="col-sm-4">
             <div class="card mt-3">
