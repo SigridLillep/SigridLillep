@@ -14,7 +14,8 @@
         <a href="https://sigridlillep.github.io/SigridLillep/05.html">Harjutus 5</a><br>
         <a href="https://sigridlillep.github.io/SigridLillep/06.html">Harjutus 6</a><br>
         <a href="https://sigridlillep.github.io/SigridLillep/07.html">Harjutus 7</a><br><br>
-
+      </td>
+      <td> 
         <strong>Bootstrap:</strong><br>
         <a href="https://sigridlillep.github.io/SigridLillep/bs02.html">Harjutus 2</a><br>
         <a href="https://sigridlillep.github.io/SigridLillep/bs03.html">Harjutus 3</a><br>
