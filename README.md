@@ -1,20 +1,30 @@
-## Hello World! 👋
+<table>
+  <tr>
+    <!-- Esimene lahter -->
+    <td valign="top" width="50%">
+      <h2>👋 Hello World!</h2>
+    </td>
 
-🌱Minu koolitööd:
+    <!-- Teine lahter -->
+    <td valign="top" width="50%">
+      🌱 <strong>Minu koolitööd:</strong><br><br>
 
-HTML5:
-1. [Harjutus 1](https://sigridlillep.github.io/SigridLillep/01.html)
-2. [Harjutus 2](https://sigridlillep.github.io/SigridLillep/02.html)
-3. [Harjutus 3](https://sigridlillep.github.io/SigridLillep/03.html)
-4. [Harjutus 5](https://sigridlillep.github.io/SigridLillep/05.html)
-5. [Harjutus 6](https://sigridlillep.github.io/SigridLillep/06.html)
-6. [Harjutus 7](https://sigridlillep.github.io/SigridLillep/07.html)
+      <u>HTML5:</u><br>
+      1. <a href="https://sigridlillep.github.io/SigridLillep/01.html">Harjutus 1</a><br>
+      2. <a href="https://sigridlillep.github.io/SigridLillep/02.html">Harjutus 2</a><br>
+      3. <a href="https://sigridlillep.github.io/SigridLillep/03.html">Harjutus 3</a><br>
+      4. <a href="https://sigridlillep.github.io/SigridLillep/05.html">Harjutus 5</a><br>
+      5. <a href="https://sigridlillep.github.io/SigridLillep/06.html">Harjutus 6</a><br>
+      6. <a href="https://sigridlillep.github.io/SigridLillep/07.html">Harjutus 7</a><br><br>
 
-Bootstrap:
-1. [Harjutus 2](https://sigridlillep.github.io/SigridLillep/bs02.html)
-2. [Harjutus 3](https://sigridlillep.github.io/SigridLillep/bs03.html)
-3. [Harjutus 4 ja 5](https://sigridlillep.github.io/SigridLillep/bs04_05.html)
-4. [Harjutus 6](https://sigridlillep.github.io/SigridLillep/bs06.html)
+      <u>Bootstrap:</u><br>
+      1. <a href="https://sigridlillep.github.io/SigridLillep/bs02.html">Harjutus 2</a><br>
+      2. <a href="https://sigridlillep.github.io/SigridLillep/bs03.html">Harjutus 3</a><br>
+      3. <a href="https://sigridlillep.github.io/SigridLillep/bs04_05.html">Harjutus 4 ja 5</a><br>
+      4. <a href="https://sigridlillep.github.io/SigridLillep/bs06.html">Harjutus 6</a>
+    </td>
+  </tr>
+</table>
 
 
 <!--
