@@ -13,6 +13,8 @@ HTML5:
 Bootstrap:
 1. [Harjutus 2](https://sigridlillep.github.io/SigridLillep/bs02.html)
 2. [Harjutus 3](https://sigridlillep.github.io/SigridLillep/bs03.html)
+3. [Harjutus 4 ja 5](https://sigridlillep.github.io/SigridLillep/bs04_05.html)
+4. [Harjutus 6](https://sigridlillep.github.io/SigridLillep/bs06.html)
 
 
 <!--
