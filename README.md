@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-## 🌱Minu koolitööd:
+### 🌱Minu koolitööd:
 
 ##### HTML5:
 1. [Harjutus 1](https://sigridlillep.github.io/SigridLillep/01.html)
@@ -15,6 +15,8 @@
 2. [Harjutus 3](https://sigridlillep.github.io/SigridLillep/bs03.html)
 3. [Harjutus 4 ja 5](https://sigridlillep.github.io/SigridLillep/bs04_05.html)
 4. [Harjutus 6](https://sigridlillep.github.io/SigridLillep/bs06.html)
+
+##
 
 <!--
 **SigridLillep/SigridLillep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
