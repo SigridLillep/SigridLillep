@@ -38,6 +38,8 @@
                                 <li><a href="https://sigridlillep.github.io/SigridLillep/bs03.html">Harjutus 3</a></li>
                                 <li><a href="https://sigridlillep.github.io/SigridLillep/bs04_05.html">Harjutus 4 ja 5</a></li>
                                 <li><a href="https://sigridlillep.github.io/SigridLillep/bs06.html">Harjutus 6</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/bs08.html">Harjutus 8</a></li>
+                                <li><a href="https://sigridlillep.github.io/SigridLillep/bs09.html">Harjutus 9</a></li>
                             </ul>
                         </div>
                     </div>
